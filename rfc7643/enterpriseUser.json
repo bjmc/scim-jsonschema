@@ -62,7 +62,7 @@
       "name": "manager",
       "type": "complex",
       "multiValued": false,
-      "description": "The User's manager.  A complex type thatoptionally allows service providers to represent organizational hierarchy by referencing the 'id' attribute of another User.",
+      "description": "The User's manager. A complex type that optionally allows service providers to represent organizational hierarchy by referencing the 'id' attribute of another User.",
       "required": false,
       "subAttributes": [
         {
